@@ -6,7 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
 [![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]()
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thewhitewolfsasi&label=Profile%20views&color=0e75b6&style=flat" alt="Thewhitewolfsasi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-098&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-098" /> </p>
 <h3 align="left">About me:</h3>
 
 - 💼 My Portfolio - [Sasidharan V](https://www.linkedin.com/in/sasidharan-vairavasamy-576474219/)
@@ -59,11 +59,11 @@ const Sasi = {
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thewhitewolfsasi&theme=nord_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasi-098&theme=nord_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thewhitewolfsasi&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thewhitewolfsasi&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasi-098&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasi-098&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thewhitewolfsasi&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thewhitewolfsasi&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasi-098&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasi-098&theme=nord_dark&utcOffset=8)
 
 </div>
 
@@ -82,4 +82,4 @@ const Sasi = {
 
 # 📝 License
 
-Copyright © 2024 [Sasidharan](https://github.com/Thewhitewolfsasi/).<br/>
+Copyright © 2025 [Sasidharan](https://github.com/sasi-098/).<br/>
