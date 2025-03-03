@@ -11,7 +11,9 @@
 
 - 💼 My Portfolio - [Sasidharan V](https://www.linkedin.com/in/sasidharan-vairavasamy-576474219/)
 
-- 🔭 I’m currently studying in [Hindustan Institute of Technology and Science, Chennai](https://hindustanuniv.ac.in/)
+- 🔭 I’m completed studying in [Hindustan Institute of Technology and Science, Chennai](https://hindustanuniv.ac.in/)
+
+- ✅ Completed Internship at Phygitalz Advisory Solution Pvt. Ltd, Finserv Pvt Ltd., Hypertangent Technologies
 
 - 🌱 I’m currently learning ML, IOT, Data Science,ROS.
 
